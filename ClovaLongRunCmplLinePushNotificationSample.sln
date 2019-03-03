@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClovaLongRunCmplLinePushNotificationSample", "ClovaLongRunCmplLinePushNotificationSample\ClovaLongRunCmplLinePushNotificationSample.csproj", "{C1889A0E-2451-49F1-89E8-CD0F0A895447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1889A0E-2451-49F1-89E8-CD0F0A895447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1889A0E-2451-49F1-89E8-CD0F0A895447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1889A0E-2451-49F1-89E8-CD0F0A895447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1889A0E-2451-49F1-89E8-CD0F0A895447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A3DAF6D-C40D-4F9C-92E2-25D3927C6341}
+	EndGlobalSection
+EndGlobal
