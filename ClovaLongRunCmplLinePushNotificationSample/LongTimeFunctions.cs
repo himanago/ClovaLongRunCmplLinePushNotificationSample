@@ -10,7 +10,7 @@ using Microsoft.Extensions.Logging;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace ClovaDurableSessionSample
+namespace ClovaLongRunCmplLinePushNotificationSample
 {
     public static class LongTimeFunctions
     {
